@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:BA4227B2-FD47-4ACF-999D-1BA792D81BE0</id>
+ <title>Page list Atom feed</title>
+ <updated>2011-09-16T15:56:41+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:06F154DD-EF54-44A0-87E2-571701E5D6D2</id>
+  <title>One Way Home</title>
+  <title xmlns="urn:iweb:">One Way Home</title>
+  <in-navbar xmlns="urn:iweb:">06F154DD-EF54-44A0-87E2-571701E5D6D2</in-navbar>
+  <link rel="alternate" href="One_Way_Home.html"/>
+  <updated>2011-09-16T15:56:41.001+02:00</updated>
+  <content>One Way Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C5FB0EBE-4497-4838-AFD6-1641473B9A88</id>
+  <title>How to play</title>
+  <title xmlns="urn:iweb:">How to play</title>
+  <in-navbar xmlns="urn:iweb:">C5FB0EBE-4497-4838-AFD6-1641473B9A88</in-navbar>
+  <link rel="alternate" href="How_to_play.html"/>
+  <updated>2011-09-16T15:56:41.002+02:00</updated>
+  <content>How to play</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D3140494-43C4-4FEA-8A66-14B56B8B6CFD</id>
+  <title>Hi scores</title>
+  <title xmlns="urn:iweb:">Hi scores</title>
+  <in-navbar xmlns="urn:iweb:">D3140494-43C4-4FEA-8A66-14B56B8B6CFD</in-navbar>
+  <link rel="alternate" href="Hi_scores.html"/>
+  <updated>2011-09-16T15:56:41.003+02:00</updated>
+  <content>Hi scores</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:20A671FD-E7AC-4212-BCC4-4582680AF4EA</id>
+  <title>Support</title>
+  <title xmlns="urn:iweb:">Support</title>
+  <in-navbar xmlns="urn:iweb:">20A671FD-E7AC-4212-BCC4-4582680AF4EA</in-navbar>
+  <link rel="alternate" href="Support.html"/>
+  <updated>2011-09-16T15:56:41.004+02:00</updated>
+  <content>Support</content>
+ </entry>
+</feed>
