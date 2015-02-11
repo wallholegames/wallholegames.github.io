@@ -23,7 +23,6 @@ body {
 .wallhole {
   background-image: url("images/cabecera.jpg");
   background-size: cover;
-  background-position: center;
   color: #ffddaa;
 }
 
