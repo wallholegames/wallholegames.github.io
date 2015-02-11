@@ -7,8 +7,6 @@ body {
 .jumbotron {
   padding-top: 75px;
   padding-bottom: 20px;
-  background-image: url("images/cabecera.png");
-  background-size: cover;
 }
 
 .jumbotron h1 {
@@ -16,6 +14,19 @@ body {
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: black;
 }
+
+.roaster {
+  background-image: url("roaster/images/cabecera.png");
+  background-size: cover;
+}
+
+.wallhole {
+  background-image: url("images/cabecera.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #ffddaa;
+}
+
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
@@ -138,7 +149,7 @@ body {
 
 @media (min-width: 992px) {
   .featurette-heading {
-    margin-top: 120px;
+    margin-top: 60px;
   }
 }
 
