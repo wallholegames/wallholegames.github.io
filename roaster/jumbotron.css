@@ -8,7 +8,6 @@ body {
   padding-top: 75px;
   padding-bottom: 20px;
   background-image: url("images/cabecera.png");
-  background-repeat: repeat-x;
   background-size: cover;
 }
 
